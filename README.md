@@ -6,6 +6,7 @@ This project has used some base classes which were developed by me. Which can be
 
 ## Tasks
 All of the tasks were not possible to be completed with four hours. Hence I didn't try to use the given backend. Instead I developed mock services. My main forcus was on login functionality.
+Use this link to see a demo [Screen recording](https://drive.google.com/file/d/1VFBT7nbkPbMcQLdiXqaD67fzMr3dA7Hr/view?usp=sharing)
 
 #### Login functionality
 - [x] Add a login screen to authenticate a user with the application - Needed Input fields: Username & Password and a Button
@@ -25,10 +26,11 @@ All of the tasks were not possible to be completed with four hours. Hence I didn
 - [ ] Tab for `Show My Applications`, which should show all the current authenticated users applications. Once tapped it will navigate to Job details screen
 - [ ] Password Change Capabilities
 
-#### Additional Demo - To demonstrate actual API calling
-- [x] I hava added previously developed Demo dashboard with some functionalities
-- [x] In this example it consuming open News APIs
-- [x] To enable this functionality, go to `/Views/Coordinators/MainCoordinator/Main_Coordinator.swift` and see line #52
+#### Additional Demo - To demonstrate actual API calling with pagination and search functionality
+- [x] I hava added a previously developed Demo dashboard with some functionalities
+- [x] In this example it consums public News APIs
+- [x] To enable this functionality, go to `/Views/Coordinators/MainCoordinator/Main_Coordinator.swift` and see line #75
+- [x] Use this link to see a demo [Screen recording](https://drive.google.com/file/d/1MYjdav2e5nzdclOgJy44Rsyerqh83xcA/view?usp=sharing)
 
 ## Architectural components
 - [x] Base MVVM-Coodinator architecture.
