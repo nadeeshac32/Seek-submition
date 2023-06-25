@@ -17,13 +17,13 @@ All of the tasks were not possible to be completed with four hours. Hence I didn
 - [x] Job list with pagination
 - [x] Job search capabilities - patialy implemented (With mock data cannot see search results are updating) 
 - [x] Job details screen
-- [] In Job detail screen, option to apply, with an indicator that indicated if already applied
+- [ ] In Job detail screen, option to apply, with an indicator that indicated if already applied
 
 ### Profile
 - [x] Candidate client API was developed for this feature
-- [] Profile details, Edit profile attributes (for example name, years of experience)
-- [] Tab for `Show My Applications`, which should show all the current authenticated users applications. Once tapped it will navigate to Job details screen
-- [] Password Change Capabilities
+- [ ] Profile details, Edit profile attributes (for example name, years of experience)
+- [ ] Tab for `Show My Applications`, which should show all the current authenticated users applications. Once tapped it will navigate to Job details screen
+- [ ] Password Change Capabilities
 
 ### Additional Demo - To demonstrate actual API calling
 - [x] I hava added previously developed Demo dashboard with some functionalities
