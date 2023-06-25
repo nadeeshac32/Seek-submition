@@ -7,25 +7,25 @@ This project has used some base classes which were developed by me. Which can be
 ## Tasks
 All of the tasks were not possible to be completed with four hours. Hence I didn't try to use the given backend. Instead I developed mock services. My main forcus was on login functionality.
 
-### Login functionality
+#### Login functionality
 - [x] Add a login screen to authenticate a user with the application - Needed Input fields: Username & Password and a Button
 - [x] The logged-in session needs to be stored - The form of the Session will be a JWT-Token
 - [x] Add Logout capabilities
 - [x] Facebook login
 
-### Dashboard
+#### Dashboard
 - [x] Job list with pagination
 - [x] Job search capabilities - patialy implemented (With mock data cannot see search results are updating) 
 - [x] Job details screen
 - [ ] In Job detail screen, option to apply, with an indicator that indicated if already applied
 
-### Profile
+#### Profile
 - [x] Candidate client API was developed for this feature
 - [ ] Profile details, Edit profile attributes (for example name, years of experience)
 - [ ] Tab for `Show My Applications`, which should show all the current authenticated users applications. Once tapped it will navigate to Job details screen
 - [ ] Password Change Capabilities
 
-### Additional Demo - To demonstrate actual API calling
+#### Additional Demo - To demonstrate actual API calling
 - [x] I hava added previously developed Demo dashboard with some functionalities
 - [x] In this example it consuming open News APIs
 - [x] To enable this functionality, go to `/Views/Coordinators/MainCoordinator/Main_Coordinator.swift` and see line #52
@@ -53,11 +53,14 @@ All of the tasks were not possible to be completed with four hours. Hence I didn
 - [x] Xcode Version 10.3 (Developed on Xcode 14.3.1)
 - [x] Swift 5
 - [x] iOS Version 11.0 or above
+- [x] Password to unzip the project. I have shared this with the email
 
 
  ## Running Xcode Project and General changes
- - Open the project(.xcworkspace file) in Xcode.
- - Now you can simply run the project in simulator.
+ - Unzip the Seek.zip to extract the xcode project
+ - Open the project(.xcworkspace file) in Xcode
+ - Now you can simply run the project in simulator
+ - Do a pod install if necessary
 
 ## Use this test account to Sign in with Facebook
  - E-mail: "johndoe20220518@gmail.com"
